@@ -1,4 +1,4 @@
-package GreedyAlgorithm;
+package activitySelection;
 
 public class Activity {
     private String name;
